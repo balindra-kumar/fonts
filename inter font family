@@ -1,0 +1,26 @@
+ <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+
+
+    body {
+      background: #f4f2f6 !important;
+      
+      font-family: "Inter", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: normal;
+      font-style: normal;
+      font-variation-settings: "slnt" 0;
+      --tw-text-opacity: 1;
+      color: rgb(140 133 148 / var(--tw-text-opacity));
+  }
+  p {
+      --tw-text-opacity: 1;
+      color: rgb(140 133 148 / var(--tw-text-opacity));
+  }
+  ul li {
+      font-family: "Inter", sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+      font-family: "Inter", sans-serif;
+  }
